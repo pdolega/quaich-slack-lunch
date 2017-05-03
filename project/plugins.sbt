@@ -1,0 +1,1 @@
+addSbtPlugin("codes.bytes" % "sbt-quartercask-lambda" % "0.0.2-SNAPSHOT")
